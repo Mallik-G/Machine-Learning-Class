@@ -1,3 +1,3 @@
 # Machine-Learning-Class
 
-Machine Learning class labs and assignments
+Labs and assignments of Machine Learning class in CUSP NYU 2016 spring semester.
